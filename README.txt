@@ -1,4 +1,14 @@
-  O trabalho tinha como objetivo criar um jogo em linguagem C, chamado TerraINF. Em que você movimenta 
+//Sobre o projeto
+
+Esse é um projeto de um jogo em linguagem C, chamado TerraINF. 
+
+//Como executar
+
+Para executar o jogo, devera baixar o código fonte e os assets para uma mesma pasta, abrir o codigo na IDE de preferencia e compilar.
+
+//Como funciona o jogo
+
+ Nele você movimenta 
 o jogador em um espaço 2D e tem como objetivo ter o maior numero de pontos ao extrair minérios do mapa.
   No menu, há três opções:ranking, sair e novo jogo.
   As regras do jogo são as seguintes:
