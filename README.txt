@@ -4,7 +4,10 @@ Esse é um projeto de um jogo em linguagem C, chamado TerraINF.
 
 //Como executar
 
-Para executar o jogo, devera baixar o código fonte e os assets para uma mesma pasta, abrir o codigo na IDE de preferencia e compilar.
+Para executar o jogo, existe duas maneiras:
+1)compilando o codigo fonte:
+deverá baixar o código fonte e os assets para uma mesma pasta, abrir o codigo na IDE de preferencia e compilar. Além disso é necessário baixar e configurar a biblioteca raylib na IDE.
+2)executando o arquivo .exe em bin (deve também baixar os assets para uma mesma pasta)
 
 //Como funciona o jogo
 
