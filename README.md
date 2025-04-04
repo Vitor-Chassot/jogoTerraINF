@@ -55,16 +55,16 @@ Para que o jogo funcione corretamente, **todos os arquivos** (código, imagens e
 ![Tela Inicial](imagens/TelaInicial.png)  
 
 ### Início do Jogo  
-![Início do Jogo](imagens/InicioDoJogo.png)  
+![Início do Jogo](imagens/InicioDoJogo.png) 
+
+### Passar de Fase  
+![Passar de Fase](imagens/PassarDeFase.png)  
 
 ### Início do Nível 2  
 ![Início do Nível 2](imagens/InicioDoNivel2.png)  
 
 ### Usando Escada  
 ![Usando Escada](imagens/UsandoEscada.png)  
-
-### Passar de Fase  
-![Passar de Fase](imagens/PassarDeFase.png)  
 
 ### Fim do Jogo  
 ![Fim do Jogo](imagens/FimDoJogo.png)  
